@@ -1,4 +1,4 @@
-# AlertInSwift
+# Alert In Swift
 App where we created one alert interface like 
 1. We created some Views and arranged them in such way that we can create single view
 2. Alert pop up is showing whenever we click on to the button
